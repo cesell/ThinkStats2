@@ -335,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1493956173882</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Start up">
+      <created>1493956319757</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1493956319757</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -402,7 +409,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Test" />
     <MESSAGE value="Added colors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added colors" />
+    <MESSAGE value="Start up" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start up" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
